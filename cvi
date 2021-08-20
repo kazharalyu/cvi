@@ -20,7 +20,7 @@ lightcyan="\e[1;36m"
 
 
 # Clear Dekstop
-
+clear
 
 sleep 2
 echo
