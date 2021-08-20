@@ -55,6 +55,7 @@ link=https://id.jagreward.com/member/verify-mobile/$nomor
 curl -s $link
 elif [[ $pil = "4" ]]; then
 echo -e $REED"be you be a good hacker, be you be a wise person. Remember not to use this tool wrong!"
+sleep 1
 elif [[ $pil = "0" ]]; then
 echo -e $lightgreen"MAKASIH UDAH MAKAI TOOL INI"
 sleep 1
